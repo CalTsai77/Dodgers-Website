@@ -1,8 +1,8 @@
 # DodgersWebsite
 
 ## Purpose and Description
-- Creation of a simple one-page WordPress CMS site using the "Twenty Twenty-One" theme (modified to fit an L.A. Dodger-centered theme)
-- Displays a list facts regarding the Dodgers' 2020 World Series Championship and a grid of 6 baseball cards that convey basic hitting statistics for current Dodger players
+- Creation of a one-page WordPress CMS site using a built-in "Twenty Twenty-One" theme (modified to fit an L.A. Dodger-focused theme)
+- Displays facts about the Dodgers' 2020 World Series Championship and a series of 6 baseball cards that convey basic hitting statistics and information for current Dodger players
 
 ## Frameworks and Technologies
 - Utilizes the MAMP ("Mac OS X, Apache, MySQL, and PHP") development environment for local testing
