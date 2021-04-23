@@ -11,5 +11,6 @@
 ## Languages
 - PHP
 - JavaScript
+- HTML
 - CSS
 - SCSS
