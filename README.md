@@ -1,5 +1,5 @@
 # DodgersWebsite
-([Demo Video] (https://drive.google.com/file/d/12k2y0KgKM26d_aTSLwrTO_bO18pCRuPp/view?usp=sharing))
+([Demo Video](https://drive.google.com/file/d/12k2y0KgKM26d_aTSLwrTO_bO18pCRuPp/view?usp=sharing))
 
 ## Purpose and Description
 - Creation of a one-page WordPress CMS site using a built-in "Twenty Twenty-One" theme (modified to fit an L.A. Dodger-focused theme)
